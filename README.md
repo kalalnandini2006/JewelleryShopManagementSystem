@@ -111,7 +111,7 @@ The main objective of this project is to develop an easy-to-use online jewellery
 - Enhanced security and performance
 
 ## Author
-More Komal
+Late Samiksha
 
 GitHub:https://github.com/komal-more-2026
 
