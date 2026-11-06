@@ -111,8 +111,7 @@ The main objective of this project is to develop an easy-to-use online jewellery
 - Enhanced security and performance
 
 ## Author
-Kalal Nandini
+Komal More
+GitHub:https://github.com/komal-more-2006
 
-GitHub:https://github.com/kalalnandini2006
-
-Repository:https://github.com/kalalnandini2006/JewelleryShopManagementSystem
+Repository:https://github.com/komal-more-2006/JewelleryShopManagementSystem
